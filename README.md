@@ -1,5 +1,5 @@
 # Hospital Management
-This is a java project made using Swing and Java File
+This is a java project made using Swing and Java File, made to advise generic medicines based on provided symptoms by the user(patient). The advised medicines will be based on the data provided by the privileged users(doctor) only
 
 This consists of total 4 modules (4 .java files acc)
 
