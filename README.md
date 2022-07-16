@@ -1,5 +1,5 @@
 # Hospital Management
-This is a simple java project made using Swing and Java File
+This is a java project made using Swing and Java File
 
 This consists of total 4 modules (4 .java files acc)
 
