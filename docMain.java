@@ -9,7 +9,7 @@ import javax.swing.*;
 import java.io.*;
 /**
  *
- * @author user
+ * @author Megha Shivhare
  */
 public class docMain {
     public static void main(String[] args)
